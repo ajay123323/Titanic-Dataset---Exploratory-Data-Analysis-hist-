@@ -1,5 +1,11 @@
 # Titanic-Dataset---Exploratory-Data-Analysis-hist-
 https://www.kaggle.com/code/ajay9020/titanic-dataset-exploratory-data-analysis-hist?scriptVersionId=245356846
+
+
+
+
+
+
 🚢 Titanic - Exploratory Data Analysis (EDA)
 This project performs an in-depth Exploratory Data Analysis (EDA) on the Titanic dataset using Python, with a focus on:
 
